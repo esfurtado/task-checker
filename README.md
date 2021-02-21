@@ -60,13 +60,12 @@ Generating reports will create two new documents: one with information regarding
 __Only after these documents have been generated you can view the statistics information on screen.__
 An example of the statistics option is shown below:
 
-s
-Total number of users: 1
-
-Total number of tasks: 2
-
 ```
 >s
+ 
+ Total number of users: 1
+
+ Total number of tasks: 2
 
                 User: admin
 
